@@ -46,6 +46,8 @@ def function(email,passw,i):
 	return False
 
 print('\n---------- Welcome To Facebook BruteForce ----------\n')
+print('Don\'t misuse this for doing fraud with others')          
+print('\n--------------- Anonymous Bin Adam -----------------\n')
 file=open('passwords.txt','r')
 
 email=input('Enter Email/Username : ')
